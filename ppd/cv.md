@@ -24,4 +24,3 @@ Zainteresowania:
 - majsterkowanie
 - chodzenie po górach
 - ćwiczenie samoobrony
-- KOBIETY

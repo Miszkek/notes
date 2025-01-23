@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "24f244c3e5160f77",
+        "id": "e831fca9434aa92e",
         "type": "tabs",
         "children": [
           {
-            "id": "108e895d7ad2e007",
+            "id": "8b3cfeee7f9166c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "chemia/chemia karta pracy.md",
-                "mode": "source",
-                "source": false
+                "file": "peie/podstawy sprawozdań/rys do cw2 surówka(1).png"
               },
-              "icon": "lucide-file",
-              "title": "chemia karta pracy"
+              "icon": "lucide-image",
+              "title": "rys do cw2 surówka(1)"
             }
           }
         ]
@@ -158,29 +156,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "108e895d7ad2e007",
+  "active": "8b3cfeee7f9166c6",
   "lastOpenFiles": [
-    "eie/przerzutniki synchroniczne.md",
-    "eie/2024.10.24.przerzutnik asynchriniczny.md",
-    "eie/Podstawowe_Parametry_ukladow_cyfrowych.md",
-    "pih/2024.10.18 2.md",
-    "pih/2024.10.18 2.md~",
-    "pih/10.10.2024.md",
-    "eie/10.10.2024eie.md",
-    "peie/przykładowe sprawozdanie surówka.jpg",
-    "pih/2024.10.18.md",
-    "wycieczka klasowa 21.md",
-    "niemiecki.md",
-    "eie/eie 1.png",
+    "peie/podstawy sprawozdań/rys do cw2 surówka2.png",
+    "peie/podstawy sprawozdań/rys do cw2 surówka(1).png",
+    "peie/podstawy sprawozdań/rys do cw1 surówka(1).png",
+    "urządzenia i systemy mechatroniczne/3.Symbole_i_oznaczenia_układy_stycznikowe.md",
+    "urządzenia i systemy mechatroniczne/2#referat_przekaźniki_bezstykowe.md",
+    "peie/podstawy sprawozdań/tabela informacyjna surówka(1).png",
+    "peie/3.sprawozdanie_siliki.md",
+    "peie/podstawy sprawozdań/zdj cw2 surówka2.jpg",
+    "peie/1.omówienie_instrukcji.md",
+    "peie/19.jpg",
+    "peie/18.jpg",
+    "peie/22.jpg",
+    "peie/21.jpg",
+    "peie/20.jpg",
+    "peie/ochrona_IP_IK.md",
+    "peie/regulamin-pracowni.md",
+    "peie/podstawy sprawozdań/tabela informacyjna surówka(1).excalidraw",
+    "peie/podstawy sprawozdań/ćw1.pomiar_mocy.ods",
+    "peie/podstawy sprawozdań/tabelasurowka1.ods",
+    "peie/podstawy sprawozdań",
+    "peie/2.lekcja.md",
+    "urządzenia i systemy mechatroniczne/Symbole_i_oznaczenia_układy_stycznikowe.md",
+    "historia/5.wojna_secesyjna_usa.md",
+    "historia/4.procesy_zjednoczeniowe.md",
+    "peie/lu3162d419.tmp",
+    "peie/lu3162d3e9.tmp",
+    "peie/lu3162d3e6.tmp",
+    "peie/ćw1.pomiar_mocy.ods",
+    "peie/lu3162d2gh.tmp",
+    "rys do cw 1 surówka.md",
+    "eie/7.przerzutniki synchroniczne.md",
+    "eie/8.konwersja_przerzutnika_w_uklad_liczacy.md",
+    "eie/9.uklady_czasowe.md",
+    "eie/10.uklady_pamieci.md",
+    "eie/1.podstawowe_funkcje_bramek_logicznych.md",
+    "eie/3.oznaczenia_ukladow_cyfrowych_scalonych.md",
+    "eie/2.klasyfikacja_ukladow_scalonych.md",
+    "eie/6.przerzutnik asynchriniczny.md",
+    "eie/5.obudowy_ukladow_cyfrowych.md",
+    "eie/4.Podstawowe_Parametry_ukladow_cyfrowych.md",
+    "IWK.md",
+    "README.md",
+    "chemia/3.chemia_organiczna.md",
     "chemia/10.10.2024.chemia.md",
-    "test.md",
-    "biologia/cha.md~",
-    "eie/yup.jpeg",
-    "biologia/cha~",
-    "eie/nie wiem.jpeg",
-    "eie/qwert.jpeg",
-    "biologia/cha.md",
-    "chemia/10.10.2024.chemia.md~",
-    "chemia/4913"
+    "eie/bramki1.xcf"
   ]
 }
