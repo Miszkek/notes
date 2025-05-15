@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b3cfeee7f9166c6",
+            "id": "b5bbdcb101c1dd43",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "peie/podstawy sprawozdań/rys do cw2 surówka(1).png"
+                "file": "urządzenia i systemy mechatroniczne/21.Charalterystyki_statyczne_i_dynamiczne.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "rys do cw2 surówka(1)"
+              "icon": "lucide-file",
+              "title": "21.Charalterystyki_statyczne_i_dynamiczne"
             }
           }
         ]
@@ -38,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -75,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c5be126c3d760861",
@@ -156,52 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b3cfeee7f9166c6",
+  "active": "b5bbdcb101c1dd43",
   "lastOpenFiles": [
-    "peie/podstawy sprawozdań/rys do cw2 surówka2.png",
-    "peie/podstawy sprawozdań/rys do cw2 surówka(1).png",
-    "peie/podstawy sprawozdań/rys do cw1 surówka(1).png",
-    "urządzenia i systemy mechatroniczne/3.Symbole_i_oznaczenia_układy_stycznikowe.md",
-    "urządzenia i systemy mechatroniczne/2#referat_przekaźniki_bezstykowe.md",
-    "peie/podstawy sprawozdań/tabela informacyjna surówka(1).png",
-    "peie/3.sprawozdanie_siliki.md",
-    "peie/podstawy sprawozdań/zdj cw2 surówka2.jpg",
-    "peie/1.omówienie_instrukcji.md",
-    "peie/19.jpg",
-    "peie/18.jpg",
-    "peie/22.jpg",
-    "peie/21.jpg",
-    "peie/20.jpg",
-    "peie/ochrona_IP_IK.md",
-    "peie/regulamin-pracowni.md",
-    "peie/podstawy sprawozdań/tabela informacyjna surówka(1).excalidraw",
-    "peie/podstawy sprawozdań/ćw1.pomiar_mocy.ods",
-    "peie/podstawy sprawozdań/tabelasurowka1.ods",
-    "peie/podstawy sprawozdań",
-    "peie/2.lekcja.md",
-    "urządzenia i systemy mechatroniczne/Symbole_i_oznaczenia_układy_stycznikowe.md",
-    "historia/5.wojna_secesyjna_usa.md",
-    "historia/4.procesy_zjednoczeniowe.md",
-    "peie/lu3162d419.tmp",
-    "peie/lu3162d3e9.tmp",
-    "peie/lu3162d3e6.tmp",
-    "peie/ćw1.pomiar_mocy.ods",
-    "peie/lu3162d2gh.tmp",
-    "rys do cw 1 surówka.md",
-    "eie/7.przerzutniki synchroniczne.md",
-    "eie/8.konwersja_przerzutnika_w_uklad_liczacy.md",
-    "eie/9.uklady_czasowe.md",
-    "eie/10.uklady_pamieci.md",
-    "eie/1.podstawowe_funkcje_bramek_logicznych.md",
-    "eie/3.oznaczenia_ukladow_cyfrowych_scalonych.md",
-    "eie/2.klasyfikacja_ukladow_scalonych.md",
-    "eie/6.przerzutnik asynchriniczny.md",
-    "eie/5.obudowy_ukladow_cyfrowych.md",
-    "eie/4.Podstawowe_Parametry_ukladow_cyfrowych.md",
-    "IWK.md",
-    "README.md",
+    "urządzenia i systemy mechatroniczne/20.układy_WO.md",
+    "urządzenia i systemy mechatroniczne/21.Charalterystyki_statyczne_i_dynamiczne.md",
+    "polisch/20.charakterystyka_chłopów_wesele.md",
+    "urządzenia i systemy mechatroniczne/25.elementy_automatyki.md",
+    "urządzenia i systemy mechatroniczne/zdj/21.02.png",
+    "urządzenia i systemy mechatroniczne/20250515_091418.jpg",
+    "urządzenia i systemy mechatroniczne/19.WO_wiad_podstawowe.md",
+    "urządzenia i systemy mechatroniczne/24.filtry_aktywne.md",
+    "urządzenia i systemy mechatroniczne/15.silniki_jednofazowe.md",
+    "urządzenia i systemy mechatroniczne/11.budowa_silniki_prądu_przemiennego.md",
+    "urządzenia i systemy mechatroniczne/12.poślizg.md",
+    "urządzenia i systemy mechatroniczne/sprawdzian_15_maja.md",
+    "urządzenia i systemy mechatroniczne/23.filtry_wiadomości_podstawowe.md",
+    "urządzenia i systemy mechatroniczne/22.charakterystyki_częstotliwości.md",
+    "urządzenia i systemy mechatroniczne/zdj/23.05.png",
+    "urządzenia i systemy mechatroniczne/23.05.png",
+    "urządzenia i systemy mechatroniczne/zdj/23.06.png",
+    "urządzenia i systemy mechatroniczne/zdj/23.07.png",
+    "urządzenia i systemy mechatroniczne/zdj/21.03.png",
+    "urządzenia i systemy mechatroniczne/zdj/21.01.png",
+    "urządzenia i systemy mechatroniczne/zdj/21.00.png",
+    "chemia/5.odpowiedzi_alkohole.md",
+    "urządzenia i systemy mechatroniczne/zdj/25.11.png",
+    "szczepan/sprawozdania/01.02.excalidraw",
+    "szczepan/sprawozdania/01.01.excalidraw",
+    "szczepan/sprawozdania/01.00.excalidraw",
+    "szczepan/01.02.excalidraw",
+    "szczepan/01.01.excalidraw",
+    "szczepan/01.00.excalidraw",
     "chemia/3.chemia_organiczna.md",
-    "chemia/10.10.2024.chemia.md",
-    "eie/bramki1.xcf"
+    "urządzenia i systemy mechatroniczne/filtry_aktywne.md",
+    "urządzenia i systemy mechatroniczne/13.silnik_pierścieniowy.md",
+    "chemia/4913",
+    "chemia/:w",
+    "urządzenia i systemy mechatroniczne/18.regulatory_mocy.md",
+    "urządzenia i systemy mechatroniczne/17.energoelektronika.md",
+    "urządzenia i systemy mechatroniczne/16.prądnice_tachometryczne.md",
+    "urządzenia i systemy mechatroniczne/14.rozruch_silnika.md",
+    "urządzenia i systemy mechatroniczne/10.rodzaje_silników_prądu_stałego.md",
+    "urządzenia i systemy mechatroniczne/09.silniki_prądu_stałego.md",
+    "urządzenia i systemy mechatroniczne/05.styczniki.md",
+    "peie/1.omówienie_instrukcji.md",
+    "peie/3.sprawozdanie_siliki.md",
+    "peie/regulamin-pracowni.md",
+    "urządzenia i systemy mechatroniczne/zdj/18.000.excalidraw",
+    "urządzenia i systemy mechatroniczne/zdj/chrakterystyka indykcyjnych.excalidraw"
   ]
 }

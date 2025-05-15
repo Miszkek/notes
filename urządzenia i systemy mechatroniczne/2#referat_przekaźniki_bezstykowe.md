@@ -1,2 +1,0 @@
-Temat: Przekaźniki bezstykowe. 
-Rodzaje: 
