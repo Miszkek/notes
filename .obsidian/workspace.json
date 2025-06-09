@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "urządzenia i systemy mechatroniczne/14.rozruch_silnika.md",
+                "file": "urządzenia i systemy mechatroniczne/28.Jednostka_arytmetyczno_logiczna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.rozruch_silnika"
+              "title": "28.Jednostka_arytmetyczno_logiczna"
             }
           }
         ]
@@ -161,6 +161,8 @@
   },
   "active": "b5bbdcb101c1dd43",
   "lastOpenFiles": [
+    "urządzenia i systemy mechatroniczne/zdj/28.00.png",
+    "urządzenia i systemy mechatroniczne/14.rozruch_silnika.md",
     "urządzenia i systemy mechatroniczne/zdj/usme symbole1.excalidraw",
     "urządzenia i systemy mechatroniczne/zdj/styczniki2.excalidraw",
     "urządzenia i systemy mechatroniczne/zdj/styczniki1.excalidraw",
@@ -171,7 +173,6 @@
     "urządzenia i systemy mechatroniczne/zdj_sprawozdania/styczniki2.excalidraw",
     "urządzenia i systemy mechatroniczne/zdj_sprawozdania/styczniki1.excalidraw",
     "urządzenia i systemy mechatroniczne/zdj_sprawozdania/sterowanie2.excalidraw",
-    "urządzenia i systemy mechatroniczne/zdj_sprawozdania/funkcje logiczne.excalidraw",
     "urządzenia i systemy mechatroniczne/zdj_sprawozdania/tyrystor.png",
     "urządzenia i systemy mechatroniczne/zdj_sprawozdania/triak.png",
     "urządzenia i systemy mechatroniczne/zdj_sprawozdania/tranzystorz.png",
@@ -201,7 +202,6 @@
     "urządzenia i systemy mechatroniczne/20.układy_WO.md",
     "urządzenia i systemy mechatroniczne/26.analogowe_czujniki_przesunięcia.md",
     "urządzenia i systemy mechatroniczne/17.energoelektronika.md",
-    "urządzenia i systemy mechatroniczne/14.rozruch_silnika.md",
     "urządzenia i systemy mechatroniczne/sprawdzian_15_maja.md",
     "urządzenia i systemy mechatroniczne/zdj/#02.referat_przekaźniki_bezstykowe.md",
     "urządzenia i systemy mechatroniczne/22.charakterystyki_częstotliwości.md",
